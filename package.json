@@ -2,7 +2,7 @@
   "name": "note-taker-jk11",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
@@ -15,9 +15,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jckutch/note-taker-jk11/issues"
+    "url": "https://github.com/jckutch/note-taker-jk11.git/issues"
   },
-  "homepage": "https://github.com/jckutch/note-taker-jk11#readme",
+  "homepage": "https://github.com/jckutch/note-taker-jk11.git#readme",
   "dependencies": {
     "express": "^4.18.2",
     "method-override": "^3.0.0",
