@@ -46,7 +46,7 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 ## Installation 
   <a name="installation"></a>
-    1) Deploy application from [Heroku](https://arcane-depths-33224.herokuapp.com/). <br />
+    1) Deploy application from [Heroku](https://note-taker-jk11.herokuapp.com/). <br />
 
 <font color="#e9d66b">If user wants to run application locally</font><br />
     2) Then copy and clone the repo [GitHub](https://github.com/jckutch/note-taker-jk11). <br />
@@ -66,7 +66,7 @@ No test
 
 ## Links
   <a name="links"></a>
-Heroku Link: https://arcane-depths-33224.herokuapp.com/<br />
+Heroku Link: https://note-taker-jk11.herokuapp.com/<br />
 Repository Link:  https://github.com/jckutch/note-taker-jk11
 
 
@@ -74,8 +74,12 @@ Repository Link:  https://github.com/jckutch/note-taker-jk11
   <a name="mockup"></a>
 
 Sample HTML images:
-![team-gif](./assets/Screenshot_team-profile-gen-jk10.jpg)<br />
-![team-image](./assets/Screenshot_team-profile-gen-jk10.jpg)
+Landing Page:<br />
+![landing-image](./Assets/landing_note-taker-jk11.png)<br />
+Blank Notes Page:<br />
+![noNote-image](./Assets/noNote_note-taker-jk11.png)<br />
+Page with added notes:
+![team-image](./assets/Screenshot_team-profile-gen-jk10.jpg)<br />
 
 
 ## License 
