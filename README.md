@@ -73,13 +73,13 @@ Repository Link:  https://github.com/jckutch/note-taker-jk11
 ## Mockup
   <a name="mockup"></a>
 
-Sample HTML images:
+Sample HTML images:<br />
 Landing Page:<br />
 ![landing-image](./Assets/landing_note-taker-jk11.png)<br />
 Blank Notes Page:<br />
 ![noNote-image](./Assets/noNote_note-taker-jk11.png)<br />
 Page with added notes:
-![team-image](./assets/Screenshot_team-profile-gen-jk10.jpg)<br />
+![notes-image](./Assets/notes_note-taker-jk11.png)<br />
 
 
 ## License 
